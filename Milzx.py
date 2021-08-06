@@ -384,4 +384,4 @@ if __name__=="__main__":
      Lmafo_Lmao_Milzu()
      TOLOL()
      moch_Milzu()
-     Milzu TC()
+     Milzu TC()  
