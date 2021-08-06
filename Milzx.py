@@ -1,28 +1,33 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-#Bajingan njing
-#Tapi ngotak dikit jangan kau jual belikan njing
-#Code by Milzu TC 
+#!/usr/bin/python
+# -*- coding: utf-8 
+# coding by Milzu TC 
 #Created 1-8-2021
-#My facebook https://www.facebook.com/milestone.gota
+fb = 
+import os,sys,time,datetime,random,hashlib,re,threading,json,cookielib,requests,uuid,itertools,subprocess
+from multiprocessing.pool import ThreadPool
+from requests.exceptions import
+    ConnectionError
+from time import sleep
+from datetime import datetime
+from random import randint
+try:
+  	import requests
+except ImportError:
+	print ' !: Modul requests belum terinstal !...\n'
+	os.system('pip install requests' if os.name == 'nt' else 'pip2 install requests')
+reload(sys)
+sys.setdefaultencoding('utf8')
+                  
+                   ######################
+                   #      Open source
+                      code       #
+                   ######################
 
-import os,sys,re,time,json,random,requests
-from bs4 import BeautifulSoup as parser
-from concurrent.futures import ThreadPoolExecutor
 
-def croot():
-    os.system(" git pull ")
-def ikeh_ikeh_kimochi():
-    os.system(" clear ")
-def aahh(s):
-    for c in s + '\n':
-        sys.stdout.write(c)
-        sys.stdout.flush()
-        time.sleep(1./300)
-def kontol():
-    time.sleep(0.3)
-    aahh("""\n\x1b[1;91m      
-                     _________________________________________________________________ \x1b[1;97m
+ip = requests.get('https://api.ipify.org').text
+# Jangam Di ubah Njeng
+
+_______________________________________ \x1b[1;97m
 _________________________________________________________________ \x1b[1;97m
 《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《 \x1b[1;94m
 Join |   |    ____________  ___  ___   __________    _              _ \x1b[1;97m 
@@ -378,10 +383,3 @@ Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[
          os.system('xdg-open https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ-mg')
          exit() 
          
-if __name__=="__main__":
-     Lmafo_Lmao_Milzu()
-     croot()
-     Lmafo_Lmao_Milzu()
-     TOLOL()
-     moch_Milzu()
-     Milzu TC()  
