@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 def croot():
     os.system(" git pull ")
-def ikeh_ikeh_kimochi():
+def cryx_cryx_milzx():
     os.system(" clear ")
 def aahh(s):
     for c in s + '\n':
@@ -22,22 +22,22 @@ def aahh(s):
 def kontol():
     time.sleep(0.3)
     aahh("""\n\x1b[1;91m      
-                     _________________________________________________________________ \x1b[1;97m
+_________________________________________________________________ \x1b[1;97m
 _________________________________________________________________ \x1b[1;97m
 《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《 \x1b[1;94m
-Join |   |    ____________  ___  ___   __________    _              _ \x1b[1;97m 
-Grub:|  |    /____  ____ / /  / /  /  /_________/     | |             | | \x1b[1;97m 
-Milzu|  |   //    //   // /  / /  /                     / /       | |             | | \x1b[1;97m 
-Trade|  |  //    //   // /  / /  /____            / /___    | |_______| | \x1b[1;97m 
-Hack |  | //    //   // /__/ /________|    /______\_ |_________| \x1b[1;97m 
-By   |  |__________________________________________________________ \x1b[1;97m
+Join |   |    ____________  ___  ___   __________    _         _  \x1b[1;97m 
+Grub:|  |    /____  ____ / /  / /  /  /_________/   | |       | | \x1b[1;97m 
+Milzu|  |   //    //   // /  / /  /          / /    | |       | | \x1b[1;97m 
+Trade|  |  //    //   // /  / /  /____      / /___  | |_______| | \x1b[1;97m 
+Hack |  | //    //   // /__/ /________|    /______\_|_________| \ \x1b[1;97m 
+By   |  |________________________________________________________ \x1b[1;97m
 Sumon|   | ×Author:Milzuu          Subscribe:Milzuu TC \x1b[1;94m
-》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》\x1b[1;94m
+》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》 \x1b[1;94m
 _________________________________________________________________ \x1b[1;97m    
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m
-#FF0400────────────────────────────────────────────────────
+#FF0400────────────────────────────────────────────────────""")
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : Milzu TC
-\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzuu.git
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzux.git
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/milestone.gota
 #FF0400────────────────────────────────────────────────────""")
 
@@ -46,29 +46,29 @@ def jembut():
 _________________________________________________________________ \x1b[1;97m
 _________________________________________________________________ \x1b[1;97m
 《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《 \x1b[1;94m
-Join |   |    ____________  ___  ___   __________    _              _ \x1b[1;97m 
-Grub:|  |    /____  ____ / /  / /  /  /_________/     | |             | | \x1b[1;97m 
-Milzu|  |   //    //   // /  / /  /                     / /       | |             | | \x1b[1;97m 
-Trade|  |  //    //   // /  / /  /____            / /___    | |_______| | \x1b[1;97m 
-Hack |  | //    //   // /__/ /________|    /______\_ |_________| \x1b[1;97m 
-By   |  |__________________________________________________________ \x1b[1;97m
-Sumon|   | ×Author:Milzuu          Subscribe:Milzuu TC \x1b[1;94m
-》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》\x1b[1;94m
+Join |   |    ____________  ___  ___   __________    _         _  \x1b[1;97m 
+Grub:|  |    /____  ____ / /  / /  /  /_________/   | |       | | \x1b[1;97m 
+Milzu|  |   //    //   // /  / /  /          / /    | |       | | \x1b[1;97m 
+Trade|  |  //    //   // /  / /  /____      / /___  | |_______| | \x1b[1;97m 
+Hack |  | //    //   // /__/ /________|    /______\_|_________| \ \x1b[1;97m 
+By   |  |________________________________________________________ \x1b[1;97m
+Sumon|   | ×Author:Milzu-TC          Subscribe:Milzuu TC          \x1b[1;94m
+》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》 \x1b[1;94m
 _________________________________________________________________ \x1b[1;97m
 \x1b[1;92m •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m 
-#FF0400────────────────────────────────────────────────────
+#FF0400────────────────────────────────────────────────────""")
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Milzu TC
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzuu.git
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzx.git
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/milestone.gota
 #FF0400────────────────────────────────────────────────────""")
 
-def Milzuu():
-    Milzuu=input(" \n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
-    if Milzuu == "": 
-       os.system(" python Milzuu.py ")
+def milzx():
+    milzx=input(" \n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
+    if milzx == "": 
+       os.system(" python Milzx.py ")
     else:
        sys.exit(" \n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :') ")
-def moch_Milzu():
+def moch_milzx():
     time.sleep(0.1)
     print(" \033[97m [\033[96m01\033[97m] Start  Cr4ck ID ")
     print(" \033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies ")
@@ -77,9 +77,9 @@ def moch_Milzu():
     print(" \033[97m [\033[96m05\033[97m] Update Tools ")
     print(" \033[97m [\033[91m00\033[97m] Exit ")
     print(" \x1b[1;94m────────────────────────────────────────────────────")
-    time.sleep(0.1)
-Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
-    if Milzuu == "1" or Milzuu =="01":
+    time.slepp(0.1)
+    milzx=input("")("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
+    if milzx == "1" or milzx =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
          id = []
@@ -93,7 +93,7 @@ Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[
              try:
              cek = open("cookies").read()
              except FileNotFoundError:
-                   ikeh_ikeh_kimochi()
+                   cryx_cryx_milzx()
                    kontol()
                    cek = input("\n\033[0;92m       [ \033[0;97mThis Tool Use Facebook Cookies \033[0;92m]\n\n\033[97m [\033[91m?\033[97m] Cookies \033[1;91m: \033[1;96m")
                    print('\n\033[97m [\033[92m+\033[97m] \033[92mPleas Wait...')
@@ -223,8 +223,8 @@ Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[
                    ses = requests.Session()
                    kukis = masuk()
                    kuki = {'cookie':kukis}
-                   Milzuu-Anjay-uwu()
-                   Milzuu()
+                   milzx-anjay-uwu()
+                   milzx()
                    aahh('\033[1;97m [\033[1;92m01\033[1;97m] Crack From ID Friend')
                    aahh('\033[1;97m [\033[1;92m02\033[1;97m] Crack From ID Link Posting')
                    aahh('\033[1;97m [\033[1;92m03\033[1;97m] Crack From ID Search Name')
@@ -316,21 +316,21 @@ Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[
                                  exit("\n\033[00m[\033[91m!\033[00m] You Didn't Get Results")
                    else:
                          print("\n\n \033[00m[\033[91m!\033[00m] Wrong Input!")
-                         MilzuTC()
+                         milzx()
                    print()
-                   ikeh_ikeh_Milzuu()
+                   cryx_cryx_milzx()
                    jembut()
                    print('\n\x1b[1;96m        📯Anjay♡Mbahcod���🔫
-                   print('\x1b[1;95m   ■───────◇◇◇────────■')
+                   print('\x1b[1;95m     ■───────◇◇◇────────■')
                    print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     ■───────◇◇◇────────■ \n",end="")       
                    expass = input("\n\033[1;97m [\033[1;96m?\033[1;97m] Add Password1 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password2 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password3 \033[1;91m: \033[1;92m")
                    aahh('\x1b[1;94m────────────────────────────────────────────────────\n')
-                   ikeh_ikeh_kimochi()
+                   cryx_cryx_milzx()
                    jembut()
                    print('\n\x1b[1;92m        📯Anjay♡Mbahcod���🔫
-                   print('\x1b[1;97m  ■───────◇◇◇────────■')
+                   print('\x1b[1;97m    ■───────◇◇◇────────■')
                    print('\x1b[1;96m           Total ID\x1b[1;91m :\x1b[1;94m ' + str(len(id)) + "\n\x1b[1;97m    ■───────◇◇◇────────■ \n",end="")
                    print('\n\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] the result\x1b[1;92m OK\x1b[1;97m saved to : ok.txt\n [\x1b[1;93m-\x1b[1;97m] the result\x1b[1;93m CP\x1b[1;97m saved to : cp.txt')
                    print('\n [\x1b[1;91m!\x1b[1;97m] turn off data to stop the process\n')
@@ -359,29 +359,29 @@ Milzuu=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[
                except requests.exceptions.ConnectionError:
                        exit("\n\n\033[00m  [\033[91m!\033[00m] no Connection")
 
-    elif Milzu == "2" or Milzu =="02":
+    elif milzx == "2" or milzx =="02":
          os.system("xdg-open https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ") 
-         MilzuTC()
-    elif Milzu == "3" or Milzu =="03":
+         milzx()
+    elif milzx == "3" or milzx =="03":
          os.system('xdg-open https://facebook.com/groups/338110617616908')
-         Milzu()
-    elif Milzu == "4" or Milzu =="04":
+         milzx()
+    elif milzx == "4" or milzx =="04":
          os.system('xdg-open https://facebook.com/groups/338110617616908')
-         Milzu TC()
-    elif Milzu == "5" or Milzu =="05":
+         milzx()
+    elif milzx == "5" or milzx =="05":
          print("\n\n\x1b[1;97m      [ \x1b[1;92mPlease Wait While Updating The Tools \x1b[1;97m]\n")
          os.system("git pull")
          print("\n \x1b[1;97m[\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Successfully Updated!\n ")
-         Milzu TC()
-    elif Milzu == "0" or Milzu =="00":
+         milzx()
+    elif milzx == "0" or milzx =="00":
          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
          os.system('xdg-open https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ-mg')
          exit() 
          
 if __name__=="__main__":
-     Lmafo_Lmao_Milzu()
+     cryx_cryx_milzx()
      croot()
-     Lmafo_Lmao_Milzu()
-     TOLOL()
-     moch_Milzu()
-     Milzu TC()
+     cryx_cryx_milzx()
+     tolol()
+     moch_milzx()
+     milzx()
