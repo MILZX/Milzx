@@ -14,13 +14,15 @@
   ▪git clone https://github.com/MILZUTC/Milzx.git
 
 # 💀Lalu masukkan Perintah Dibawah💀
+
   ```bash
   $ cd Milzx
   $ bash setup.sh
   $ python Milzx.py
 
 # 💦DONASI💦
-  MELALUI: 'DANA' ; 083182713104
+
+ *MELALUI: 'DANA' ; 083182713104
            'PULSA'; 083182713104
            'OVO'  ; 083182713104
 
