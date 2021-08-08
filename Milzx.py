@@ -77,7 +77,7 @@ def moch_milzx():
     print(" \033[97m [\033[96m05\033[97m] Update Tools ")
     print(" \033[97m [\033[91m00\033[97m] Exit ")
     print(" \x1b[1;94m────────────────────────────────────────────────────")
-    time.slepp(0.1)
+    time.sleep(0.1)
 
     milzxtc=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
     if milzx == "1" or milzx =="01":
