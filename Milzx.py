@@ -79,7 +79,7 @@ def moch_milzx():
     print(" \x1b[1;94m────────────────────────────────────────────────────")
     time.sleep(0.1)
 
-    milzxtc=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
+    milzx=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
     if milzx == "1" or milzx =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
