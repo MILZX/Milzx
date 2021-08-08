@@ -17,7 +17,6 @@
 
   ```bash
   $ cd Milzx
-  $ bash setup.sh
   $ python Milzx.py
 
 # 💦DONASI💦
