@@ -92,7 +92,7 @@ def moch_milzx():
          result = 0
          def masuk():
              try:
-             cek = open("cookies").read()
+                    cek = open("cookies").read()
              except FileNotFoundError:
                    cryx_cryx_milzx()
                    kontol()
