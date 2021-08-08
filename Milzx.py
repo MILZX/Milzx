@@ -225,7 +225,7 @@ def moch_milzx():
                    kukis = masuk()
                    kuki = {'cookie':kukis}
                    cryx_cryx_milzx()
-                   milzx()
+                   kontol()
                    aahh('\033[1;97m [\033[1;92m01\033[1;97m] Crack From ID Friend')
                    aahh('\033[1;97m [\033[1;92m02\033[1;97m] Crack From ID Link Posting')
                    aahh('\033[1;97m [\033[1;92m03\033[1;97m] Crack From ID Search Name')
