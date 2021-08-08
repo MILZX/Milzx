@@ -294,7 +294,7 @@ def moch_milzx():
                                  exit("\033[00m[\033[91m!\033[00m] \033[97mUser/ID Wrong!")
                    elif memek == '6' or memek =='06':
                          try:
-                         file1 = open("cp.txt").read()
+                                 file1 = open("cp.txt").read()
                                  file2 = open("ok.txt").read()
                                  a = file1 + file2
                                  final = a.strip().split("\n")
