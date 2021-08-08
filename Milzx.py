@@ -144,7 +144,7 @@ def moch_milzx():
                   result += 1
                   if cek:
                         life.append(username+"|"+password)
-                 else:
+                  else:
                         with open('ok.txt','a') as f:
                                 f.write(username + '|' + password + '\n')
              elif 'www.facebook.com' in response.json()['error_msg']:
