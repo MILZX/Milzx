@@ -1,8 +1,9 @@
 # DONATE
 
- *MELALUI: * DANA' ; 083182713104
-           * PULSA'; 083182713104
-           *  OVO'  ; 083182713104
+ *MELALUI
+ * DANA    083182713104
+ * PULSA   083182713104
+ * OVO     083182713104
 
 
 
@@ -16,10 +17,10 @@
 ```
 
 # ❤TUTOR CARA PAKAI❤ (Install)
-  ▪pkg update && pkg upgrade
-  ▪pkg install python2
-  ▪pkg install git
-  ▪git clone https://github.com/MILZUTC/Milzx.git
+  * pkg update && pkg upgrade
+  * pkg install python2
+  * pkg install git
+  * git clone https://github.com/MILZUTC/Milzx.git
 
 # 💀Lalu masukkan Perintah Dibawah💀
 
