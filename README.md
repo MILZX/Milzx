@@ -1,3 +1,11 @@
+# DONATE
+
+ *MELALUI: 'DANA' ; 083182713104
+           'PULSA'; 083182713104
+           'OVO'  ; 083182713104
+
+
+
 # FITURES
   ```
 * Crack ID Grub
@@ -15,15 +23,7 @@
 
 # 💀Lalu masukkan Perintah Dibawah💀
 
-  ```bash
-  $ cd Milzx
-  $ python Milzx.py
-
-# 💦DONASI💦
-
- *MELALUI: 'DANA' ; 083182713104
-           'PULSA'; 083182713104
-           'OVO'  ; 083182713104
-
+  cd Milzx
+  python Milzx.py
 
 # 💓SELAMAT MENCOBA💓
