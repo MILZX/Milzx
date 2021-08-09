@@ -1,8 +1,8 @@
 # DONATE
 
- *MELALUI: 'DANA' ; 083182713104
-           'PULSA'; 083182713104
-           'OVO'  ; 083182713104
+ *MELALUI: * DANA' ; 083182713104
+           * PULSA'; 083182713104
+           *  OVO'  ; 083182713104
 
 
 
@@ -23,7 +23,7 @@
 
 # 💀Lalu masukkan Perintah Dibawah💀
 
-  cd Milzx
-  python Milzx.py
+  * cd Milzx
+  * python Milzx.py
 
 # 💓SELAMAT MENCOBA💓
