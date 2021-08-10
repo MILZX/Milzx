@@ -7,7 +7,7 @@
 #Created 1-8-2021
 #My facebook https://www.facebook.com/milestone.gota
 
-import os,sys,re,time,json,random,requests
+import os,requests,datetime
 from bs4 import BeautifulSoup as parser
 from concurrent.futures import ThreadPoolExecutor
 
