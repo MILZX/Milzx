@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 #Bajingan njing
 #Jangan kau recod lagi ngtd itu ada bot ganasnya
-#bisa rusak bot kalo kau recod
 #Code by Milzu TC 
 #Created 1-8-2021
 #My facebook https://www.facebook.com/milestone.gota
