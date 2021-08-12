@@ -26,6 +26,7 @@
 # 💀Lalu masukkan Perintah Dibawah💀
 
   * cd Milzx
+  * bash setup.sh
   * python Milzx.py
 
 # 💓SELAMAT MENCOBA💓
