@@ -1,58 +1,57 @@
 #!/bin/bash
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
-pip install requests
-clear
+pip install 
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 pip install mechanize
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 pip install requests bs4
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 pip2 install requests
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 pip2 install mechanize
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 apt install wget -y
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 apt install ruby -y
 clear
 echo
-echo "        ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "        ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "        ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo "         |\    /|  | |    _____   |    |"
+echo "         | \  / |  | |       /    |    |"
+echo "         |  \/  |  | |____  /___  |____|"
 echo
 gem install lolcat
 clear
@@ -63,7 +62,7 @@ echo "         ┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕�
 echo "         ┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
 echo "         ╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
 echo "         ╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
-echo
+echo "                MILZU  FREEE  NODE            ON MY YOUTUBE
 echo
 clear
 echo
