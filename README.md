@@ -17,16 +17,8 @@
 ```
 
 # ❤TUTOR CARA PAKAI❤ (Install)
-  * pkg update && pkg upgrade
-  * pkg install python2
-  * pkg install requests
-  * pkg install git
-  * git clone https://github.com/MILZUTC/Milzx.git
-
+  
 # 💀Lalu masukkan Perintah Dibawah💀
 
-  * cd Milzx
-  * bash setup.sh
-  * python Milzx.py
 
 # 💓SELAMAT MENCOBA💓
